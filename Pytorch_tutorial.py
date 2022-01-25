@@ -1,4 +1,4 @@
-# Pytorch Tensor Tutorial
+# Pytorch Tensor Tutorial (collected by @OmarAlburaiki)
 import torch
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
